@@ -74,8 +74,9 @@ span {
 .tdo {
   top: 10000px;
   left: 10000px;
+	background-color: white;
 }
 
 .wof {
-    left: 50000px;	
+    left: 30000px;	
 }
