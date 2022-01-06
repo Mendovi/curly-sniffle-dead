@@ -2,6 +2,10 @@
     background-color: orange;
 }
 
+.wof {
+left: 9000;	
+}
+
 input {
     background-color: violet;
     text-align: center;
@@ -73,3 +77,4 @@ span {
   top: 10000px;
   left: 10000px;
 }
+
