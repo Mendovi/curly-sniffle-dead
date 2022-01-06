@@ -2,9 +2,7 @@
     background-color: orange;
 }
 
-.wof {
-    left: 50000;	
-}
+
 
 input {
     background-color: violet;
@@ -78,3 +76,6 @@ span {
   left: 10000px;
 }
 
+.wof {
+    left: 50000px;	
+}
